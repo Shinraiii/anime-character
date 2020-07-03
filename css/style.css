@@ -51,7 +51,7 @@ footer p{
 h2{
 	font-size: 35px;
 	color: #005c99;
-	margin: 40px 0
+	margin: 40px 0;
 
 }
 a{
@@ -60,6 +60,8 @@ a{
 a:hover{
 	color: #0099ff
 }
+
+
 
 
 
